@@ -2,7 +2,7 @@
   "logicalTable" : {
     "name" : "D_CHANNELS",
     "type" : "DIMENSION",
-    "description":"変更の確認"
+    "description" : "変更の確認",
     "primaryKey" : [ "CHANNEL_ID" ],
     "logicalColumns" : [ {
       "name" : "CHANNEL_TOTAL",
