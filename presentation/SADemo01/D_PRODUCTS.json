@@ -1,0 +1,21 @@
+{
+  "presentationTable" : {
+    "name" : "D_PRODUCTS",
+    "presentationColumns" : [ {
+      "name" : "PROD_CATEGORY",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_PRODUCTS.PROD_CATEGORY"
+    }, {
+      "name" : "PROD_ID",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_PRODUCTS.PROD_ID"
+    }, {
+      "name" : "PROD_NAME",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_PRODUCTS.PROD_NAME"
+    }, {
+      "name" : "PROD_SUBCATEGORY",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_PRODUCTS.PROD_SUBCATEGORY"
+    }, {
+      "name" : "PROD_TOTAL",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_PRODUCTS.PROD_TOTAL"
+    } ]
+  }
+}

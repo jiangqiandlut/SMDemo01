@@ -1,0 +1,27 @@
+{
+  "presentationTable" : {
+    "name" : "D_CUSTOMERS",
+    "presentationColumns" : [ {
+      "name" : "CUST_TOTAL",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_CUSTOMERS.CUST_TOTAL"
+    }, {
+      "name" : "CUST_STATE_PROVINCE",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_CUSTOMERS.CUST_STATE_PROVINCE"
+    }, {
+      "name" : "CUST_CITY",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_CUSTOMERS.CUST_CITY"
+    }, {
+      "name" : "CUST_NAME",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_CUSTOMERS.CUST_NAME"
+    }, {
+      "name" : "CUST_LAST_NAME",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_CUSTOMERS.CUST_LAST_NAME"
+    }, {
+      "name" : "CUST_FIRST_NAME",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_CUSTOMERS.CUST_FIRST_NAME"
+    }, {
+      "name" : "CUST_ID",
+      "sourceLogicalColumn" : "logicalColumn:BMDemo01.D_CUSTOMERS.CUST_ID"
+    } ]
+  }
+}
